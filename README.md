@@ -7,8 +7,3 @@
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/karmendozacr/) o [mi perfil de GitHub](https://github.com/Karla-Mendoza)  
 - 😄 Pronombres: ella / she  
 - ⚡ Dato curioso: soy diseñadora de formación.
-
-
-Karla-Mendoza/Karla-Mendoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
